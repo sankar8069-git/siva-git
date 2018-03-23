@@ -1,3 +1,5 @@
 this is a sample file
 new
 today is friday
+
+now i m going to stash this command
